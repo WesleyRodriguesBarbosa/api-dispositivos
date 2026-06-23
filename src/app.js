@@ -5,7 +5,7 @@ import swaggerUi from "swagger-ui-express";
 import swaggerSpec from "../swagger.js";
 
 import deviceRoutes from "./routes/deviceRoutes.js";
-import errorHandler from "./middlewares/ErrorHandler.js";
+import errorHandler from "./middlewares/errorHandler.js";
 
 const app = express();
 
