@@ -16,4 +16,3 @@ app.listen(PORT, () => {
   console.log(
     "Swagger: http://localhost:3000/api-docs"
   );
-});
